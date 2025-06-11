@@ -181,3 +181,25 @@ $color-background-surface-default-extraHighEmphasis: #ffffff;
 $snackbar-default-surface: #fff;
 $snackbar-positive-surface: $color-green-120;
 $snackbar-destructive-surface: $color-red-100;
+// Avatar
+$avatar-color-stroke-default: #FFF;
+$avatar-color-text-default: #1B1B1B;
+$avatar-color-stroke-inverse: rgba(255, 255, 255, 0.96);
+$avatar-color-fill-default: #E0E0E0;
+$avatar-color-fill-brand: #5018B5;
+$avatar-color-fill-sp01: #802B80;
+$avatar-color-fill-sp02: #FF7E0B;
+$avatar-color-fill-sp03: #DE095F;
+$avatar-color-fill-sp04: #07A39D;
+$avatar-color-fill-sp05: #0E79D2;
+// Quantity Selector
+$quantitySelector-border-resting: #C4C4C4;
+$quantitySelector-fill-resting: #FFF;
+$quantitySelector-border-hover: #B8B8B8;
+$quantitySelector-fill-hover: #F3F3F3;
+$quantitySelector-fill-focus: #FFF;
+$quantitySelector-border-disable: #D0D0D0;
+$quantitySelector-fill-disabled: #FFF;
+// Tooltip
+$tooltip-color-fill-primary: #141414;
+$tooltip-color-text-primary: rgba(255, 255, 255, 0.96);
